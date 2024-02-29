@@ -1,3 +1,3 @@
 # Estudos-JS
 
-Dedicada ao estudo de JavaScrit.
+Dedicada ao estudo de JavaScript.
